@@ -1,2 +1,2 @@
 # Algoritma Struktur Data
- Bahas-bahas ASD
+Repository mengenai matkul ASD semester 2 yang lalu :'). 
