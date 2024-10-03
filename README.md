@@ -1,2 +1,1 @@
-# Algoritma Struktur Data
-Repository mengenai matkul ASD semester 2 yang lalu :'). 
+# implementation of train station map application using tree data structure #
